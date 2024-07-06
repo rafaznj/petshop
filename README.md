@@ -1,5 +1,5 @@
 # Pet Shop
-#### Este repositório contém o código-fonte do site, desenvolvido com PHP e CSS básico, além de focar no uso do comando ***include*** do PHP para facilitar a manutenção e a organização do código.
+#### Site desenvolvido com PHP, HTML e CSS básico, além de focar no uso do comando ***include*** do PHP para facilitar a manutenção e a organização do código.
 
 # Visão Geral
 #### Foi criado como um projeto em sala de aula.
